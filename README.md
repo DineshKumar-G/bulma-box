@@ -1,4 +1,4 @@
-# card-sections
+# bulma-box
 
 ## Project setup
 ```
