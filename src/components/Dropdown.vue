@@ -1,6 +1,7 @@
 <template>
   <b-dropdown
     class="menu-dropdown"
+    :mobile-modal="false"
     ref="dropdown"
     v-model="selectedOptions"
     multiple

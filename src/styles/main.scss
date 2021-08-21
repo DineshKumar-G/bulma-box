@@ -42,7 +42,7 @@ body {
   padding: 0 !important;
 }
 .dropdown-menu {
-  min-width: 5vw !important;
+  min-width: 5rem !important;
 }
 a.dropdown-item, button.dropdown-item {
   padding-right: 1.7rem;
@@ -52,7 +52,7 @@ a.dropdown-item.is-active, button.dropdown-item.is-active {
   color: black !important
 }
 .b-checkbox {
-  width: 6.5vw;
+  width: 5.5rem;
 }
 .check {
   background-color: $grey-light !important;
